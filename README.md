@@ -241,24 +241,24 @@ Translated complex client requirements into intuitive wireframes and high-fideli
 </div>
 ​<div align="center">
 <!-- GitHub Stats (Using TokyoNight theme for dark aesthetic) -->
-<a href="https://github.com/akhilrashed">
-<img src="https://github-readme-stats.vercel.app/api?username=akhilrashed&show_icons=true&theme=tokyonight&bg_color=0c0c0e&title_color=ffffff&text_color=a1a1aa&icon_color=818cf8&border_color=27272a&border_radius=16&hide_border=false" width="48%" style="margin-right: 1%;" />
+<a href="https://github.com/akhil_rashed">
+<img src="https://github-readme-stats.vercel.app/api?username=akhil_rashed&show_icons=true&theme=tokyonight&bg_color=0c0c0e&title_color=ffffff&text_color=a1a1aa&icon_color=818cf8&border_color=27272a&border_radius=16&hide_border=false" width="48%" style="margin-right: 1%;" />
 </a>
-<a href="https://github.com/akhilrashed">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilrashed&layout=compact&theme=tokyonight&bg_color=0c0c0e&title_color=ffffff&text_color=a1a1aa&border_color=27272a&border_radius=16&hide_border=false" width="48%" />
+<a href="https://github.com/akhil_rashed">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil_rashed&layout=compact&theme=tokyonight&bg_color=0c0c0e&title_color=ffffff&text_color=a1a1aa&border_color=27272a&border_radius=16&hide_border=false" width="48%" />
 </a>
 </div>
 
 
 <div align="center">
 <!-- Streak Stats -->
-<a href="https://github.com/akhilrashed">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilrashed&theme=tokyonight&background=0c0c0e&border=27272a&dates=a1a1aa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=818cf8&sideLabels=818cf8&stroke=27272a&ring=818cf8&fire=c084fc" width="97%" />
+<a href="https://github.com/akhil_rashed">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil_rashed&theme=tokyonight&background=0c0c0e&border=27272a&dates=a1a1aa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=818cf8&sideLabels=818cf8&stroke=27272a&ring=818cf8&fire=c084fc" width="97%" />
 </a>
 </div>
 ​<!-- /// FOOTER & CTA /// -->
 <div align="center">
-<a href="mailto:hello@akhilrashed.com">
+<a href="mailto:hello@ldxyn.com">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=09090b&height=250&section=footer&text=Let's%20build%20something%20iconic.&fontSize=36&fontAlignY=45&fontColor=ffffff&stroke=27272a&strokeWidth=1" width="100%" style="border-radius: 20px;" alt="Footer CTA"/>
 </a>
 </div>
