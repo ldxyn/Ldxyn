@@ -241,19 +241,19 @@ Translated complex client requirements into intuitive wireframes and high-fideli
 </div>
 ​<div align="center">
 <!-- GitHub Stats (Using TokyoNight theme for dark aesthetic) -->
-<a href="https://github.com/akhil_rashed">
-<img src="https://github-readme-stats.vercel.app/api?username=akhil_rashed&show_icons=true&theme=tokyonight&bg_color=0c0c0e&title_color=ffffff&text_color=a1a1aa&icon_color=818cf8&border_color=27272a&border_radius=16&hide_border=false" width="48%" style="margin-right: 1%;" />
+<a href="https://github.com/akhil-rashed">
+<img src="https://github-readme-stats.vercel.app/api?username=akhil-rashed&show_icons=true&theme=tokyonight&bg_color=0c0c0e&title_color=ffffff&text_color=a1a1aa&icon_color=818cf8&border_color=27272a&border_radius=16&hide_border=false" width="48%" style="margin-right: 1%;" />
 </a>
-<a href="https://github.com/akhil_rashed">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil_rashed&layout=compact&theme=tokyonight&bg_color=0c0c0e&title_color=ffffff&text_color=a1a1aa&border_color=27272a&border_radius=16&hide_border=false" width="48%" />
+<a href="https://github.com/akhil-rashed">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-rashed&layout=compact&theme=tokyonight&bg_color=0c0c0e&title_color=ffffff&text_color=a1a1aa&border_color=27272a&border_radius=16&hide_border=false" width="48%" />
 </a>
 </div>
 
 
 <div align="center">
 <!-- Streak Stats -->
-<a href="https://github.com/akhil_rashed">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil_rashed&theme=tokyonight&background=0c0c0e&border=27272a&dates=a1a1aa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=818cf8&sideLabels=818cf8&stroke=27272a&ring=818cf8&fire=c084fc" width="97%" />
+<a href="https://github.com/akhil-rashed">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-rashed&theme=tokyonight&background=0c0c0e&border=27272a&dates=a1a1aa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=818cf8&sideLabels=818cf8&stroke=27272a&ring=818cf8&fire=c084fc" width="97%" />
 </a>
 </div>
 ​<!-- /// FOOTER & CTA /// -->
@@ -266,7 +266,7 @@ Translated complex client requirements into intuitive wireframes and high-fideli
 <p style="color: #a1a1aa; font-size: 16px; margin-bottom: 25px;">
 Currently open for compelling architectural challenges and visionary product teams.
 </p>
-<a href="mailto:hello@akhilrashed.com">
+<a href="mailto:hello@ldxyn.com">
 <img src="https://img.shields.io/badge/INITIATE_COMMUNICATION-ffffff?style=for-the-badge&logo=minutemailer&logoColor=000000&labelColor=ffffff&border=1" alt="Contact Me" style="border-radius: 8px;" />
 </a>
 </div>
